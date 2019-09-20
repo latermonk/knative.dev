@@ -20,3 +20,6 @@ https://knative.dev/
 
 ibm:
 https://developer.ibm.com/cn/os-academy-knative/    
+
+kubecon:   
+https://yq.aliyun.com/articles/706537?spm=5176.11065265.1996646101.searchclickresult.78da76ebpTfUZK&do=login&accounttraceid=dbcf0ea1-27de-4543-a3e1-d16b8a8d8159
