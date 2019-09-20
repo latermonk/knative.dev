@@ -1,7 +1,7 @@
 # knative.dev   
 https://knative.dev/      
 
-##  Falure     
+##  Failure     
 
   [![观看视频](https://upos-videocovers.acgvideo.com/m190920ko3uazedc1s9s081xlkri0vh8_0025.jpg)](https://www.bilibili.com/video/av68337092)
   
