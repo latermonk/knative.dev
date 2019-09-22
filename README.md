@@ -1,6 +1,8 @@
 # knative.dev   
 https://knative.dev/      
 
+##  interactive course    
+https://instruqt.com/public/topics/knative    
 
 ![Knative-Product](_image/Knative-Product.jpg)
 
